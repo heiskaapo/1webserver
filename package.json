@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node 1webserver.js",
+    "dev": "nodemon 1webserver.js"
+  },
+  "dependencies": {
+    "jquery": "^3.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
